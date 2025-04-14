@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "541552448172",
+    "firebase_url": "https://vizilabdapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vizilabdapp",
+    "storage_bucket": "vizilabdapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541552448172:android:1a6c01ebf75c7a113f0509",
+        "android_client_info": {
+          "package_name": "hu.egyetem.vizilabdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCceQbzUD5z1nbjpz0sc0uTQEfT238p9jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Világos mód téma -->
+    <style name="Theme.Vizilabdapp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Fő színek -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Másodlagos (secondary) színek -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Alsó navigációs sáv színei -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/purple_500</item>
+    </style>
+</resources>

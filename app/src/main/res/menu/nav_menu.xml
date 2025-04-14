@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_view_teams"
+        android:icon="@drawable/baseline_list_alt_24"
+        android:title="@string/nav_teams_list"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/action_add_team"
+        android:icon="@drawable/baseline_people_alt_24"
+        android:title="@string/nav_add_team"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/action_add_match"
+        android:icon="@drawable/baseline_sports_volleyball_24"
+        android:title="@string/nav_add_match"
+        android:enabled="true" />
+</menu>
