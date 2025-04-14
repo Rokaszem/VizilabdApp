@@ -1,3 +1,5 @@
 test user:
-test@admin.com
-012345
+
+email: test@admin.com
+
+pw: 012345
